@@ -1,4 +1,4 @@
-# CulinaryCanvas
+# CulinaryCanvas - Free Recipe Template
 
 ## Paint Your Plate, Share Your Passion
 
