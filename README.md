@@ -28,4 +28,4 @@ CulinaryCanvas is a modern, responsive web application template designed for foo
 ## Getting Started
 
 Clone the repository:
-` https://github.com/cotrk/CulinaryCanvas.git `   
+` https://github.com/cotrk/CulinaryCanvas-Recipe-Website-Template.git `
